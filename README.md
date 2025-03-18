@@ -2,12 +2,12 @@
 
 ![Screenshot_3](https://github.com/user-attachments/assets/92755a85-09ad-47f7-9287-52c586a4c23d)
 
-## 📌 **Tecnologias Utilizadas**
-- [React](https://react.dev/)
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
+### 📌 **Tecnologias Utilizadas**
+- [React]
+- [Next.js]
+- [Tailwind CSS]
 
-## 🚀 **Instalação e Uso**
+### 🚀 **Instalação e Uso**
 1. **Clone este repositório**
 
  ```bash
