@@ -1,7 +1,6 @@
 # 🍔 FastFood 
 
-![Screenshot_2](https://github.com/user-attachments/assets/d369cc11-0c41-4f8f-819e-78557f4a472a)
-
+![Screenshot_3](https://github.com/user-attachments/assets/92755a85-09ad-47f7-9287-52c586a4c23d)
 
 ## 📌 **Tecnologias Utilizadas**
 - [React](https://react.dev/)
