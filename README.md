@@ -1,4 +1,8 @@
+<div align="center">
+ 
 # 🍔 FastFood 
+
+</div>
 
 ![Screenshot_3](https://github.com/user-attachments/assets/92755a85-09ad-47f7-9287-52c586a4c23d)
 
