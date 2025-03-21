@@ -30,3 +30,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+Deploy: https://my-food-app-five.vercel.app/
